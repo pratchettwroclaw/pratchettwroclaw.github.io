@@ -25,7 +25,14 @@ background: linear-gradient(135deg,  rgba(124,179,66,1) 0%,rgba(174,213,129,1) 1
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7cb342', endColorstr='#aed581',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
+.forumtron {
+    background: #263238;
+    color: #CFD8DC;
+    padding: 16px 0;
+}
+
 .boardtron {
+    color: #B0BEC5;
     background: rgb(38,166,154); /* Old browsers */
     background: -moz-linear-gradient(-45deg,  rgba(38,166,154,1) 0%, rgba(0,150,136,1) 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(38,166,154,1)), color-stop(100%,rgba(0,150,136,1))); /* Chrome,Safari4+ */
