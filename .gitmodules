@@ -1,0 +1,3 @@
+[submodule "boardhelper"]
+	path = boardhelper
+	url = https://github.com/pratchettwroclaw/board-helper.git
